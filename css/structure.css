@@ -39,7 +39,7 @@ sub {
 }
 
 .header__logo {
-    max-width: 100%;
+    max-width: 200%;
 }
 
 .header__text {
@@ -68,7 +68,7 @@ sub {
 .social--top-left {
     right: auto;
     left: 0;
-    padding: 20px 8px 0 0;
+    padding: 40px 8px 0 0;
 }
 
 .fullscreen .social--top-left {
@@ -117,7 +117,7 @@ sub {
 }
 
 .social--bottom {
-    padding: 30px 0 25px 0;
+    padding: 40px 0 25px 0;
 }
 
 .social--bottom {
