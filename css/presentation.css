@@ -35,7 +35,7 @@
 
 /** Main Styling (for 1080p) **/
 .body {
-	 padding: 10px 10px 10px 10px;
+	 padding:0px;
     background-color: #f0f0f0;
     font-family: "OpenSans_Regular", Arial;
 }
