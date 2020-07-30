@@ -171,10 +171,8 @@
     --social-bgX: 100%;
 }
 
-.cta--side,
-.promo--side {
-    background-color: #2e2e2e;
-}
+
+
 
 .cta__button {
     color: #fff;
@@ -281,34 +279,14 @@
     background-color: #dbdbdb;
 }
 
-.promo__item {
-    background-color: #fff;
-}
 
-.promo--side .promo__image {
-    background-size: 200% 100%;
-}
 
-.promo--side .promo__link:hover .promo__image,
-.promo--side .promo__link:active .promo__image,
-.promo--side .focusable.promo__link:focus .promo__image {
-    background-position: 100% 0;
-}
 
-.promo--bottom .promo__image {
-    background-size: 100% 200%;
-}
 
-.promo__link {
-    color: #0f0f0f;
-    text-decoration: none;
-}
 
-.promo__link:hover,
-.promo__link:active,
-.focusable.promo__link:focus {
-    text-decoration: underline;
-}
+
+
+
 
 .timeline {
     color: #fff;
@@ -1086,9 +1064,7 @@
         right: 35px;
     }
 
-    .top-wrapper--no-cta .header, .top-wrapper--no-promo .header {
-        padding: 0;
-    }
+    
 
     .header__logo {
         height:100px;
@@ -1200,8 +1176,7 @@
     .cta--1 .cta__button--button-1,
     .cta--2 .cta__button--button-2,
     .cta--3 .cta__button--button-3,
-    .cta--4 .cta__button--button-4,
-    .cta--5 .cta__button--button-5 {
+     {
         border-bottom: 0;
     }
 }
@@ -1297,10 +1272,7 @@
         color: #818888;
     }
 
-    .promo__link:hover,
-    .promo__link:active {
-        text-decoration: none;
-    }
+    
 
     .footer__link:hover,
     .footer__link:active {
